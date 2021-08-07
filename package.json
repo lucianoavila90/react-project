@@ -1,0 +1,19 @@
+{
+  "name": "react-project",
+  "version": "1.0.0",
+  "description": "First react Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucianoavila90/react-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucianoavila90/react-project/issues"
+  },
+  "homepage": "https://github.com/lucianoavila90/react-project#readme"
+}
